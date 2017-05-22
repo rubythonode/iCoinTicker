@@ -1,8 +1,10 @@
 ## iCoinTicker
 
-![Ticker-Screenshot](https://github.com/moimz/iCoinTicker/blob/master/screenshot.png?raw=true)
+코빗, 빗썸, 코인원의 BTC, ETH 금액정보를 macOS의 메뉴바에서 확인할 수 있습니다.
 
 A simple status bar widget for macOS that displays the latest currency.
+
+![Ticker-Screenshot](https://github.com/moimz/iCoinTicker/blob/master/screenshot.png?raw=true)
 
 ## Features
 - Auto refresh (10s ~ 1h)
