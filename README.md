@@ -21,7 +21,7 @@ A simple status bar widget for macOS that displays the latest currency.
 - Coinone
 
 ## Download
-https://github.com/moimz/iCoinTicker/releases
+https://github.com/moimz/iCoinTicker/releases/download/v1.0.0/iCoinTicker.zip
 
 ## Donate
 
